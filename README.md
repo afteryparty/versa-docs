@@ -65,3 +65,4 @@ VERSA is a product of **Afterparty Bot Labs**.
 All names, branding, and assets are proprietary.
 
 © Afterparty Bot Labs — All rights reserved.
+
