@@ -1,7 +1,4 @@
-cat <<'EOF' > _config.yml
 theme: jekyll-theme-slate
-title: VERSA Help Center
-description: Official Documentation for the VERSA Discord Bot by Afterparty Bot Labs
+title: "VERSA Help Center"
+description: "Official Documentation for the VERSA Discord Bot by Afterparty Bot Labs"
 show_downloads: false
-google_analytics:
-EOF
