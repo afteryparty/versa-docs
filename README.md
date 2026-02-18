@@ -1,3 +1,4 @@
+cat <<'EOF' > README.md
 # VERSA Help Center
 
 Official documentation for **VERSA**, a private Discord bot developed and maintained by
@@ -14,10 +15,7 @@ documentation for users of the VERSA bot and dashboard.
 
 ## 📖 About This Repository
 
-This documentation site is built using:
-
-- [Hugo](https://gohugo.io/) — static site generator
-- [Doks](https://getdoks.org/) — documentation-focused Hugo theme
+This documentation site is built using **Jekyll** with a simple theme.
 
 The goal of this project is to provide:
 - Clear explanations of VERSA features
@@ -70,3 +68,4 @@ VERSA is a product of **Afterparty Bot Labs**.
 All names, branding, and assets are proprietary.
 
 © Afterparty Bot Labs — All rights reserved.
+EOF
