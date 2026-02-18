@@ -40,7 +40,7 @@ Feedback from real users helps us continuously improve the Help Center experienc
 Please submit documentation feedback through official channels only:
 
 ### 🔹 VERSA Support Server
-👉 https://discord.gg/UDqAk2MFrh
+👉 https://discord.gg/BusuZp2G8w
 
 When submitting feedback, please include:
 - The page or section you’re referring to
