@@ -1,13 +1,13 @@
-# VERSA Help Center
+echo '# VERSA Help Center
 
-Official documentation for **VERSA**, a private Discord bot developed and maintained by  
+Official documentation for **VERSA**, a private Discord bot developed and maintained by
 **Afterparty Bot Labs**.
 
 This repository powers the **VERSA Help Center**, providing clear, structured, and up-to-date
 documentation for users of the VERSA bot and dashboard.
 
-🌐 **Main Website:** https://botversa.xyz  
-🧭 **Bot Dashboard:** https://botversa.xyz/manage  
+🌐 **Main Website:** https://botversa.xyz
+🧭 **Bot Dashboard:** https://botversa.xyz/manage
 📚 **Help Center:** https://help.botversa.xyz
 
 ---
@@ -16,8 +16,8 @@ documentation for users of the VERSA bot and dashboard.
 
 This documentation site is built using:
 
-- [Hugo](https://gohugo.io/) — static site generator  
-- [Doks Theme](https://getdoks.org) — documentation-focused Hugo theme
+- `https://gohugo.io/`  — static site generator
+- `https://getdoks.org`  — documentation-focused Hugo theme
 
 The goal of this project is to provide:
 - Clear explanations of VERSA features
@@ -44,8 +44,8 @@ All changes are managed internally by Afterparty Bot Labs.
 
 If you need help with VERSA:
 
-- Join the **official support server**  
-  👉 https://discord.gg/BusuZp2G8w
+- Join the **official support server**
+  👉 `https://discord.gg/BusuZp2G8w`
 - Please read the `#information` and `#faq` channels before asking questions
 
 Only resources linked from official VERSA domains or the support server should be considered accurate.
@@ -58,7 +58,7 @@ VERSA is actively developed and maintained thanks to community support.
 
 You can support the project on Patreon:
 
-👉 **https://patreon.com/AfterpartyClub**
+👉 ** `https://patreon.com/AfterpartyClub**`
 
 Premium features are offered as a **thank-you** to supporters and are not a commercial product.
 
@@ -66,7 +66,7 @@ Premium features are offered as a **thank-you** to supporters and are not a comm
 
 ## 🏷 Branding
 
-VERSA is a product of **Afterparty Bot Labs**.  
+VERSA is a product of **Afterparty Bot Labs**.
 All names, branding, and assets are proprietary.
 
-© Afterparty Bot Labs — All rights reserved.
+© Afterparty Bot Labs — All rights reserved.' > /root/afterparty/versa-docs/README.md
