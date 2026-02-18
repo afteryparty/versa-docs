@@ -9,7 +9,7 @@ documentation for users of the VERSA bot and dashboard.
 
 🌐 **Main Website:** https://botversa.xyz
 🧭 **Bot Dashboard:** https://botversa.xyz/manage
-📚 **Help Center:** https://help.botversa.xyz
+📚 **Help Center:** https://afteryparty.github.io/versa-docs/
 
 [![Website](https://img.shields.io/badge/🌐_Website-afterpartylabs.xyz-blue?style=flat-square)](https://afterpartylabs.xyz)
 [![Patreon](https://img.shields.io/badge/💖_Support-Patreon-orange?style=flat-square)](https://patreon.com/AfterpartyClub)
