@@ -17,8 +17,8 @@ documentation for users of the VERSA bot and dashboard.
 
 This documentation site is built using:
 
-- `https://gohugo.io/`  — static site generator
-- `https://getdoks.org`  — documentation-focused Hugo theme
+- [Hugo](https://gohugo.io/) — static site generator
+- [Doks](https://getdoks.org/) — documentation-focused Hugo theme
 
 The goal of this project is to provide:
 - Clear explanations of VERSA features
@@ -46,7 +46,7 @@ All changes are managed internally by Afterparty Bot Labs.
 If you need help with VERSA:
 
 - Join the **official support server**
-  👉 `https://discord.gg/BusuZp2G8w`
+  👉 https://discord.gg/BusuZp2G8w
 - Please read the `#information` and `#faq` channels before asking questions
 
 Only resources linked from official VERSA domains or the support server should be considered accurate.
@@ -59,7 +59,7 @@ VERSA is actively developed and maintained thanks to community support.
 
 You can support the project on Patreon:
 
-👉 ** `https://patreon.com/AfterpartyClub**`
+👉 **https://patreon.com/AfterpartyClub**
 
 Premium features are offered as a **thank-you** to supporters and are not a commercial product.
 
