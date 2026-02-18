@@ -1,8 +1,8 @@
-# Contributing to VERSA Documentation
+echo '# Contributing to VERSA Documentation
 
 Thank you for your interest in improving the VERSA Help Center 💜
 
-VERSA is a **private Discord bot** developed and maintained by **Afterparty Bot Labs**.  
+VERSA is a **private Discord bot** developed and maintained by **Afterparty Bot Labs**.
 This documentation repository is managed internally and is not open-source.
 
 ---
@@ -40,7 +40,7 @@ Feedback from real users helps us continuously improve the Help Center experienc
 Please submit documentation feedback through official channels only:
 
 ### 🔹 VERSA Support Server
-👉 https://discord.gg/BusuZp2G8w
+👉 `https://discord.gg/BusuZp2G8w`
 
 When submitting feedback, please include:
 - The page or section you’re referring to
@@ -53,7 +53,7 @@ Our team reviews all feedback and applies changes internally.
 
 ## ❤️ Supporting Development
 
-If you enjoy VERSA and would like to support ongoing development,  
+If you enjoy VERSA and would like to support ongoing development,
 **donations are always appreciated** and help us:
 
 - Maintain existing features
@@ -62,7 +62,7 @@ If you enjoy VERSA and would like to support ongoing development,
 
 Support is completely optional and can be done via Patreon:
 
-👉 **https://patreon.com/AfterpartyClub**
+👉 ** `https://patreon.com/AfterpartyClub**`
 
 Premium features and perks are offered as a thank-you for supporting the project.
 
@@ -77,4 +77,4 @@ Clear feedback and community support allow us to:
 - Reduce confusion
 - Continue building high-quality tools
 
-Thank you for being part of the VERSA community.
+Thank you for being part of the VERSA community.' > /root/afterparty/versa-docs/CONTRIBUTING.md
