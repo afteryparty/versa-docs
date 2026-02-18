@@ -1,4 +1,5 @@
-echo '# VERSA Help Center
+cat <<'EOF' > /root/afterparty/versa-docs/README.md
+# VERSA Help Center
 
 Official documentation for **VERSA**, a private Discord bot developed and maintained by
 **Afterparty Bot Labs**.
@@ -69,4 +70,5 @@ Premium features are offered as a **thank-you** to supporters and are not a comm
 VERSA is a product of **Afterparty Bot Labs**.
 All names, branding, and assets are proprietary.
 
-© Afterparty Bot Labs — All rights reserved.' > /root/afterparty/versa-docs/README.md
+© Afterparty Bot Labs — All rights reserved.
+EOF
