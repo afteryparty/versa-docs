@@ -1,4 +1,5 @@
-echo '# Contributing to VERSA Documentation
+cat <<'EOF' > /root/afterparty/versa-docs/CONTRIBUTING.md
+# Contributing to VERSA Documentation
 
 Thank you for your interest in improving the VERSA Help Center 💜
 
@@ -77,4 +78,5 @@ Clear feedback and community support allow us to:
 - Reduce confusion
 - Continue building high-quality tools
 
-Thank you for being part of the VERSA community.' > /root/afterparty/versa-docs/CONTRIBUTING.md
+Thank you for being part of the VERSA community.
+EOF
